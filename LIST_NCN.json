@@ -1,0 +1,47 @@
+[
+  {
+    "code": "S2_8",
+    "description": null,
+    "attributeConfigs": {
+      "MaxInput": "1",
+      "MaxOutput": "8"
+    },
+    "id": "b5acb6a1-9752-4f74-8429-70ac6716eb71",
+    "tenantId": null,
+    "createdBy": "user",
+    "createdOn": "2023-04-04T08:22:15.397Z",
+    "modifiedBy": null,
+    "modifiedOn": null,
+    "isDeleted": false
+  },
+  {
+    "code": "S2_4",
+    "description": null,
+    "attributeConfigs": {
+      "MaxInput": "1",
+      "MaxOutput": "4"
+    },
+    "id": "88f865d9-340c-4b51-8fdd-643c6cadd324",
+    "tenantId": null,
+    "createdBy": "user",
+    "createdOn": "2023-04-04T08:22:24.62Z",
+    "modifiedBy": null,
+    "modifiedOn": null,
+    "isDeleted": false
+  },
+  {
+    "code": "S1_8",
+    "description": null,
+    "attributeConfigs": {
+      "MaxInput": "1",
+      "MaxOutput": "8"
+    },
+    "id": "6c3a4d21-031e-4d54-9a8b-62a2b46c279c",
+    "tenantId": null,
+    "createdBy": "user",
+    "createdOn": "2023-04-04T08:23:04.111Z",
+    "modifiedBy": null,
+    "modifiedOn": null,
+    "isDeleted": false
+  }
+]

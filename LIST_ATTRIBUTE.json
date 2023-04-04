@@ -1,0 +1,53 @@
+{
+  "totalCount": 3,
+  "data": [
+    {
+      "code": "MaxOutput",
+      "description": null,
+      "controlType": {
+        "$typeDisc": "Textbox",
+        "minCharacter": 1,
+        "maxCharacter": 5
+      },
+      "id": "MaxOutput",
+      "tenantId": null,
+      "createdBy": "user",
+      "createdOn": "2023-04-04T08:21:15.291Z",
+      "modifiedBy": null,
+      "modifiedOn": null,
+      "isDeleted": false
+    },
+    {
+      "code": "MaxInput",
+      "description": null,
+      "controlType": {
+        "$typeDisc": "Textbox",
+        "minCharacter": 1,
+        "maxCharacter": 5
+      },
+      "id": "MaxInput",
+      "tenantId": null,
+      "createdBy": "user",
+      "createdOn": "2023-04-04T08:21:23.576Z",
+      "modifiedBy": null,
+      "modifiedOn": null,
+      "isDeleted": false
+    },
+    {
+      "code": "NumberOfCores",
+      "description": null,
+      "controlType": {
+        "$typeDisc": "Textbox",
+        "minCharacter": 1,
+        "maxCharacter": 5
+      },
+      "id": "NumberOfCores",
+      "tenantId": null,
+      "createdBy": "user",
+      "createdOn": "2023-04-04T08:21:34.483Z",
+      "modifiedBy": null,
+      "modifiedOn": null,
+      "isDeleted": false
+    }
+  ]
+}
